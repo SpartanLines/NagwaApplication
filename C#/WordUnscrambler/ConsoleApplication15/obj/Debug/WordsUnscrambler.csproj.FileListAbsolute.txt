@@ -1,0 +1,6 @@
+c:\users\trus.t\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+c:\users\trus.t\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+c:\users\trus.t\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+c:\users\trus.t\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\WordsUnscrambler.csprojResolveAssemblyReference.cache
+c:\users\trus.t\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+c:\users\trus.t\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb

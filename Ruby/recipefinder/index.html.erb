@@ -1,0 +1,23 @@
+<p>Powered By Food2Fork.com</p>
+
+<%if @recipes.nil? %>
+  <p>nothing was found to match your search, sorry :(</p>
+<% else %>
+  <h1>Searching for - <%=@searchterm%></h1>
+
+  <table border="1">
+    <tr>
+      <th>Image</th>
+      <th>Title</th>
+      <th>Social Rank</th>
+    </tr>
+    <%@recipes.each do |recipes| %>
+      <tr class=<%=cycle('even','odd')  %>>
+        <td><%=link_to image_tag(recipes["image_url"],size:"100x100"),recipes["source_url"] %></td>
+        <td><%=link_to sanitize(recipes["title"]),recipes["source_url"] %></td>
+        <td><%=  recipes["social_rank"] %></td>
+      </tr>
+
+    <% end %>
+  </table>
+<% end %>

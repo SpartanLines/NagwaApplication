@@ -1,0 +1,261 @@
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Caselist.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.CasesList.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.CreateCase.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Dashboard.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.DoctorsLogin.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.LoginForm.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Question.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.Questionslist.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.SearchCase.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.UserControl1.resources
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.exe.licenses
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\trus.t\documents\visual studio 2013\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.Caselist.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.CasesList.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.CreateCase.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.Dashboard.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.DoctorsLogin.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.LoginForm.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.Question.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.Questionslist.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.SearchCase.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.UserControl1.resources
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.exe.licenses
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\egypt2\Desktop\DbProject\MyProject\MyProject\obj\Debug\MyProject.amount.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.Caselist.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.CasesList.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.CreateCase.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.Dashboard.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.DoctorsLogin.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.LoginForm.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.Question.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.Questionslist.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.SearchCase.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.UserControl1.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.amount.resources
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.exe.licenses
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\egypt2\Desktop\end\DbProject\New folder (3)\MyProject\MyProject\obj\Debug\MyProject.Form6.resources

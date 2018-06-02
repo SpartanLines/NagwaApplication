@@ -1,0 +1,108 @@
+﻿Build started 24/05/2017 02:11:18 م.
+     1>Project "C:\Users\trus.t\Desktop\project\ls\project\Project Framework\PT-Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt Figures\CRectangle.cpp
+         CRectangle.cpp
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(20): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(130): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(135): warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(136): warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(137): warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(138): warning C4244: '*=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(174): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(175): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(181): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(182): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(209): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(211): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(227): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(223): warning C4101: 'fill' : unreferenced local variable
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(264): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(265): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(266): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(267): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(287): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\trus.t\desktop\project\ls\project\project framework\figures\crectangle.cpp(288): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/PT Project.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/PT Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\PT Project.lib" /MACHINE:X86 /SAFESEH .\Debug/AddBringtoFrontAction.obj
+         .\Debug/AddCircleAction.obj
+         .\Debug/AddCopyAction.obj
+         .\Debug/AddLineAction.obj
+         .\Debug/AddSelectAction.obj
+         .\Debug/AddTriangleAction.obj
+         .\Debug/CCircle.obj
+         .\Debug/ChangeBackGroundColor.obj
+         .\Debug/ChangeBorderWidthAction.obj
+         .\Debug/ChangeDrawColorAction.obj
+         .\Debug/ChangeFillColorAction.obj
+         .\Debug/auxil.obj
+         .\Debug/CMUgraphics.obj
+         .\Debug/colors.obj
+         .\Debug/image.obj
+         .\Debug/jpegload.obj
+         .\Debug/keyqueue.obj
+         .\Debug/mousequeue.obj
+         .\Debug/windowinput.obj
+         .\Debug/jcomapi.obj
+         .\Debug/jcparam.obj
+         .\Debug/jdapimin.obj
+         .\Debug/jdapistd.obj
+         .\Debug/jdatasrc.obj
+         .\Debug/jdcoefct.obj
+         .\Debug/jdcolor.obj
+         .\Debug/jddctmgr.obj
+         .\Debug/jdhuff.obj
+         .\Debug/jdinput.obj
+         .\Debug/jdmainct.obj
+         .\Debug/jdmarker.obj
+         .\Debug/jdmaster.obj
+         .\Debug/jdmerge.obj
+         .\Debug/jdphuff.obj
+         .\Debug/jdpostct.obj
+         .\Debug/jdsample.obj
+         .\Debug/jdtrans.obj
+         .\Debug/jerror.obj
+         .\Debug/jidctflt.obj
+         .\Debug/jidctfst.obj
+         .\Debug/jidctint.obj
+         .\Debug/jidctred.obj
+         .\Debug/jmemmgr.obj
+         .\Debug/jmemnobs.obj
+         .\Debug/jquant1.obj
+         .\Debug/jquant2.obj
+         .\Debug/jutils.obj
+         .\Debug/CopyAction.obj
+         .\Debug/CutAction.obj
+         .\Debug/DeleteAction.obj
+         .\Debug/ExitAction.obj
+         .\Debug/CFigure.obj
+         .\Debug/CRectangle.obj
+         .\Debug/AddRectAction.obj
+         .\Debug/GoToDraw.obj
+         .\Debug/GoToPlay.obj
+         .\Debug/Input.obj
+         .\Debug/Output.obj
+         .\Debug/ApplicationManager.obj
+         .\Debug/CLine.obj
+         .\Debug/LoadAction.obj
+         .\Debug/main.obj
+         .\Debug/CTriangle.obj
+         .\Debug/MoveAction.obj
+         .\Debug/PasteAction.obj
+         .\Debug/PicknHideAction.obj
+         .\Debug/RedoAction.obj
+         .\Debug/ResizeAction.obj
+         .\Debug/RotateAction.obj
+         .\Debug/SaveAction.obj
+         .\Debug/ScrambleFind.obj
+         .\Debug/SendToBackAction.obj
+         .\Debug/UndoAction.obj
+         .\Debug/ZoomAction.obj
+         PT-Project.vcxproj -> C:\Users\trus.t\Desktop\project\ls\project\Project Framework\.\Debug\PT Project.exe
+       BscMake:
+         D:\visual studio\VC\bin\bscmake.exe /nologo /o".\Debug/PT Project.bsc" .\Debug\AddBringtoFrontAction.sbr .\Debug\AddCircleAction.sbr .\Debug\AddCopyAction.sbr .\Debug\AddLineAction.sbr .\Debug\AddSelectAction.sbr .\Debug\AddTriangleAction.sbr .\Debug\CCircle.sbr .\Debug\ChangeBackGroundColor.sbr .\Debug\ChangeBorderWidthAction.sbr .\Debug\ChangeDrawColorAction.sbr .\Debug\ChangeFillColorAction.sbr .\Debug\auxil.sbr .\Debug\CMUgraphics.sbr .\Debug\colors.sbr .\Debug\image.sbr .\Debug\jpegload.sbr .\Debug\keyqueue.sbr .\Debug\mousequeue.sbr .\Debug\windowinput.sbr .\Debug\jcomapi.sbr .\Debug\jcparam.sbr .\Debug\jdapimin.sbr .\Debug\jdapistd.sbr .\Debug\jdatasrc.sbr .\Debug\jdcoefct.sbr .\Debug\jdcolor.sbr .\Debug\jddctmgr.sbr .\Debug\jdhuff.sbr .\Debug\jdinput.sbr .\Debug\jdmainct.sbr .\Debug\jdmarker.sbr .\Debug\jdmaster.sbr .\Debug\jdmerge.sbr .\Debug\jdphuff.sbr .\Debug\jdpostct.sbr .\Debug\jdsample.sbr .\Debug\jdtrans.sbr .\Debug\jerror.sbr .\Debug\jidctflt.sbr .\Debug\jidctfst.sbr .\Debug\jidctint.sbr .\Debug\jidctred.sbr .\Debug\jmemmgr.sbr .\Debug\jmemnobs.sbr .\Debug\jquant1.sbr .\Debug\jquant2.sbr .\Debug\jutils.sbr .\Debug\CopyAction.sbr .\Debug\CutAction.sbr .\Debug\DeleteAction.sbr .\Debug\ExitAction.sbr .\Debug\CFigure.sbr .\Debug\CRectangle.sbr .\Debug\AddRectAction.sbr .\Debug\GoToDraw.sbr .\Debug\GoToPlay.sbr .\Debug\Input.sbr .\Debug\Output.sbr .\Debug\ApplicationManager.sbr .\Debug\CLine.sbr .\Debug\LoadAction.sbr .\Debug\main.sbr .\Debug\CTriangle.sbr .\Debug\MoveAction.sbr .\Debug\PasteAction.sbr .\Debug\PicknHideAction.sbr .\Debug\RedoAction.sbr .\Debug\ResizeAction.sbr .\Debug\RotateAction.sbr .\Debug\SaveAction.sbr .\Debug\ScrambleFind.sbr .\Debug\SendToBackAction.sbr .\Debug\UndoAction.sbr .\Debug\ZoomAction.sbr
+     1>Done Building Project "C:\Users\trus.t\Desktop\project\ls\project\Project Framework\PT-Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.38

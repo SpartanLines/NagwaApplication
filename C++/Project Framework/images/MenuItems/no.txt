@@ -1,0 +1,1 @@
+Triangle   1   (483,510)andradius= 100  
