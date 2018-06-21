@@ -1,0 +1,121 @@
+.pageContext
+{
+    background-color: #f8fbff;
+}
+.searchText
+{
+    background-color: #ff9835;
+    color: white;
+    font-weight: bolder;
+}
+.card {
+    padding-left:auto;
+    padding-right:auto;
+    min-height:500px;
+    margin-top:15px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    -webkit-transition: .25s box-shadow;
+    transition: .25s box-shadow;
+}
+.card:focus, .card:hover {
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+}
+.searchText{
+    min-height: 60px;
+}
+.TopImage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.col-xs-12{
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.row{
+    margin-left:auto;
+    margin-right:auto;
+}
+.pop-up{
+    margin: 30px;
+    border-radius:28px;
+    border:1px solid #0c6bab;
+    width: 120px;
+}
+
+.btnmodal
+{
+    color:White;
+    background-color: #ff9835;
+    border-color: #ff9835;
+    min-width: 200px;
+
+}
+.btnmodalCancel
+{
+    min-width: 200px;
+}
+hr{
+    border-width: 1px;
+    font-weight: bold;
+    color:black;
+    background-color: black;
+}
+.modalbtn
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Price
+{
+    color: #ff6635;
+}
+.PriceStroked{
+    color: #999aa7;
+
+    text-weight:bolder;
+    font-size: 1.4em;
+    text-decoration: line-through;
+
+}
+
+.pagination{
+    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pagination li a
+{
+    color: #ff9835;
+}
+
+.pagination li .active
+{
+    color:white;
+    background-color: #ff9835;
+
+}
+.footer ul
+{
+    list-style-type: none;
+}
+.footer a{
+    color:black;
+}
+.card-body{
+    font-size:large;
+    font-stretch: expanded;
+    font-family: sans-serif;
+    
+}
+.card-body p{
+    margin: 10px 0 0 0;
+}
+#Nav{
+    background-color: white !important;
+}
